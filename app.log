@@ -1,0 +1,430 @@
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+INFO:root:Session ID: 98a54738-6679-47f7-8da4-205ff985f9ca, User Query: what is the policy of Technova Solutions?, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 98a54738-6679-47f7-8da4-205ff985f9ca, AI Resonse: I am sorry, but the context provided does not contain any information about the policy of Technova Solutions.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1bc7d1a9-2f01-4fe2-85f3-5fd00968a1e1, User Query: what is the policy of Technova Solutions?, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1bc7d1a9-2f01-4fe2-85f3-5fd00968a1e1, AI Resonse: TechNova Solutions has the following policies:
+
+*   **Introduction:** It is a technology-driven company committed to innovation, security, and professional excellence, outlining policies for a productive and secure work environment.
+*   **Work Hours Policy:** Employees are expected to work 40 hours per week, with standard hours from 9:00 AM to 6:00 PM, Monday to Friday. Flexible working hours may be approved by management.
+*   **Remote Work Policy:** Employees can work remotely up to two days per week with prior approval from their team manager, provided they remain available during official working hours and attend all scheduled meetings.
+*   **Data Security Policy:** All employees must protect company and client data. Sharing confidential information with unauthorized individuals is strictly prohibited, and employees must use secure passwords.
+INFO:root:Session ID: 1bc7d1a9-2f01-4fe2-85f3-5fd00968a1e1, User Query: what is the first policy?, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 1bc7d1a9-2f01-4fe2-85f3-5fd00968a1e1, User Query: What is the first policy?, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 52934e37-9d4f-4726-8a33-8ace0d348009, User Query: What is the policy of Technova solutions?, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 52934e37-9d4f-4726-8a33-8ace0d348009, AI Resonse: TechNova Solutions has several policies covering various aspects of work and employee conduct:
+
+*   **Work Hours Policy:** Employees are expected to work 40 hours per week, typically from 9:00 AM to 6:00 PM, Monday to Friday. Flexible hours may be approved by management based on project needs.
+*   **Remote Work Policy:** Employees can work remotely up to two days per week with prior team manager approval, provided they remain available during official hours and attend all scheduled meetings.
+*   **Data Security Policy:** Employees must protect company and client data, strictly prohibiting the sharing of confidential information with unauthorized individuals. Secure passwords must be used, and security measures should be enabled.
+*   **Environmental Protection:** Employees must support environmental protection by minimizing waste, reducing energy consumption, and promoting sustainable practices.
+*   **Resource Management:** Departments must prioritize digital documentation to reduce paper usage and utilize energy-efficient equipment whenever possible.
+*   **Workplace Safety:** Employees must follow all safety guidelines in power plants or field locations and wear protective equipment in hazardous environments.
+INFO:root:Session ID: 52934e37-9d4f-4726-8a33-8ace0d348009, User Query: What is the first policy?, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 52934e37-9d4f-4726-8a33-8ace0d348009, User Query: What is the first policy?, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 52934e37-9d4f-4726-8a33-8ace0d348009, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: a2ba10d8-a2b3-49c1-a44e-17306e357591, User Query: What is the policy of Technova Solutions?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: a2ba10d8-a2b3-49c1-a44e-17306e357591, AI Resonse: Based on the provided text, TechNova Solutions has the following policies:
+
+*   **Work Hours Policy:** Employees are expected to work 40 hours per week, typically from 9:00 AM to 6:00 PM, Monday to Friday. Flexible hours can be approved by management.
+*   **Remote Work Policy:** Employees can work remotely up to two days per week with prior manager approval. They must be available during official working hours and attend scheduled meetings.
+*   **Data Security Policy:** Employees must protect company and client data, and sharing confidential information with unauthorized individuals is forbidden. Secure passwords and enabled two-factor authentication are required.
+*   **Reporting and Documentation:** All shipments must be tracked and updated in the logistics management system.
+INFO:root:Session ID: a2ba10d8-a2b3-49c1-a44e-17306e357591, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: a2ba10d8-a2b3-49c1-a44e-17306e357591, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-002:batchEmbedContents "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-002:batchEmbedContents "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-004:batchEmbedContents "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the policy of Technova Solutions?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, AI Resonse: Based on the provided text, TechNova Solutions has the following policies:
+
+*   **Work Hours Policy:** Employees are expected to work 40 hours per week, typically from 9:00 AM to 6:00 PM, Monday to Friday. Flexible hours may be approved by management.
+*   **Remote Work Policy:** Employees can work remotely up to two days per week with prior manager approval. They must be available during official hours and attend all scheduled meetings.
+*   **Data Security Policy:** Employees must protect company and client data, and sharing confidential information with unauthorized individuals is forbidden. Secure passwords and multi-factor authentication are required.
+*   **Reporting and Documentation:** All shipments must be tracked and updated in the logistics management system.
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the first policy, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the first policy, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 50e84dd5-c6ff-4e52-9e69-51136f7e87fa, User Query: What is the first policy, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: c8165b16-ce41-4746-ab10-d237271485f8, User Query: What is policy of Technova solutions?, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: c8165b16-ce41-4746-ab10-d237271485f8, AI Resonse: TechNova Solutions has the following policies:
+
+*   **Work Hours Policy:**
+    *   Employees are expected to work 40 hours per week.
+    *   Standard working hours are 9:00 AM to 6:00 PM, Monday to Friday.
+    *   Flexible working hours may be approved by management based on project requirements.
+*   **Remote Work Policy:**
+    *   Employees can work remotely up to two days per week with prior approval from their team manager.
+    *   Remote employees must be available during official working hours and attend all scheduled meetings.
+*   **Data Security Policy:**
+    *   All employees must protect company and client data.
+    *   Sharing confidential information with unauthorized individuals is strictly prohibited.
+    *   Employees must use secure passwords and enable multi-factor authentication for all company accounts.
+    *   Confidential information must not be shared outside the company.
+INFO:root:Session ID: c8165b16-ce41-4746-ab10-d237271485f8, User Query: What is first policy, Model: gemini-2.5-flash
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 149b95ce-2d35-4ddf-b750-49da427c553a, User Query: What is Technova Solutions policies?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 149b95ce-2d35-4ddf-b750-49da427c553a, AI Resonse: TechNova Solutions has policies covering the following areas:
+
+*   **Work Hours:** Employees are expected to work 40 hours per week, typically from 9:00 AM to 6:00 PM, Monday to Friday. Flexible hours can be approved by management.
+*   **Remote Work:** Employees can work remotely up to two days a week with prior manager approval. They must be available during official hours and attend scheduled meetings.
+*   **Data Security:** Employees must protect company and client data, not share confidential information with unauthorized individuals, use secure passwords, and enable multi-factor authentication.
+*   **Environmental Protection:** Employees are expected to minimize waste, reduce energy consumption, and promote sustainable practices.
+*   **Resource Management:** Departments should prioritize digital documentation and use energy-efficient equipment.
+*   **Workplace Safety:** Employees must follow safety guidelines, especially in power plants or field locations, and wear protective equipment in hazardous environments.
+INFO:root:Session ID: 149b95ce-2d35-4ddf-b750-49da427c553a, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 149b95ce-2d35-4ddf-b750-49da427c553a, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 149b95ce-2d35-4ddf-b750-49da427c553a, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 149b95ce-2d35-4ddf-b750-49da427c553a, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+WARNING:langchain_google_genai.chat_models:Unexpected argument 'googke_api_key' provided to ChatGoogleGenerativeAI. Did you mean: 'google_api_key'?
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 149b95ce-2d35-4ddf-b750-49da427c553a, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 149b95ce-2d35-4ddf-b750-49da427c553a, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, User Query: What is policies of Technova solutions?, Model: gemini-2.5-flash-lite
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, AI Resonse: I am sorry, but I do not have access to the specific policies of Technova Solutions. My knowledge base is general and does not include proprietary or internal company information.
+
+To find out about Technova Solutions' policies, I recommend the following:
+
+*   **Visit their official website:** Companies usually have a section for "About Us," "Careers," or "Legal" where they might outline their policies, mission, or values.
+*   **Contact them directly:** You can usually find contact information (email or phone number) on their website. Reaching out to their HR department or a general inquiry line would be the best way to get accurate information.
+*   **Look for public statements or press releases:** If they have made any public announcements regarding their policies, you might find them through a web search.
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: ab201fd3-d1c9-4e59-af74-2b12291be98d, User Query: What is first policy?, Model: gemini-2.5-flash-lite
+INFO:root:Session ID: d6fe1633-897f-4b6d-ab03-edbad7d7b11b, User Query: What is the policy of Technova solutions?, Model: gemini-2.5-flash-lite
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: d6fe1633-897f-4b6d-ab03-edbad7d7b11b, AI Resonse: I am sorry, but I do not have access to the specific policies of Technova Solutions. My knowledge base does not contain proprietary information about individual companies.
+
+To find out about Technova Solutions' policies, I recommend the following:
+
+*   **Visit their official website:** Most companies publish their policies (e.g., privacy policy, terms of service, HR policies) on their website. Look for sections like "About Us," "Legal," "Privacy," or "Careers."
+*   **Contact them directly:** You can usually find contact information (phone number or email address) on their website. Reaching out to their HR department or a general inquiry line might get you the information you need.
+*   **Check professional networking sites:** Sometimes, companies will share information about their culture and policies on platforms like LinkedIn.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:root:Session ID: c5075dde-3a6d-4755-950a-48f7e3607a2a, User Query: What is the policy of Technova solutions?, Model: gemini-2.5-flash-lite
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: c5075dde-3a6d-4755-950a-48f7e3607a2a, AI Resonse: Based on the provided text, TechNova Solutions has the following policies:
+
+*   **Work Hours Policy:** Employees are expected to work 40 hours per week, typically from 9:00 AM to 6:00 PM, Monday to Friday. Flexible hours can be approved by management.
+*   **Remote Work Policy:** Employees can work remotely up to two days per week with manager approval. They must be available during official hours and attend scheduled meetings.
+*   **Data Security Policy:** Employees must protect company and client data, not share confidential information with unauthorized individuals, and use secure passwords.
+*   **Environmental Protection Policy:** Employees are expected to minimize waste, reduce energy consumption, and promote sustainable practices.
+*   **Resource Management Policy:** Departments should prioritize digital documentation and use energy-efficient equipment.
+*   **Workplace Safety Policy:** Employees must follow safety guidelines, especially in power plants or field locations, and wear protective equipment in hazardous environments.
+INFO:root:Session ID: c5075dde-3a6d-4755-950a-48f7e3607a2a, User Query: What is the first policy?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 87ba24ed-1103-4fbb-a4fe-8e4cb21e50c5, User Query: What is the first company in document?, Model: gemini-2.5-flash-lite
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 87ba24ed-1103-4fbb-a4fe-8e4cb21e50c5, AI Resonse: The first company mentioned in the provided documents is **MediCore Health Systems**.
+INFO:root:Session ID: 87ba24ed-1103-4fbb-a4fe-8e4cb21e50c5, User Query: What is the first policy of company?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 87ba24ed-1103-4fbb-a4fe-8e4cb21e50c5, User Query: What is the first policy of company?, Model: gemini-2.5-flash-lite
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 500 Internal Server Error"
+INFO:root:Session ID: 87ba24ed-1103-4fbb-a4fe-8e4cb21e50c5, User Query: What is the first policy of company?, Model: gemini-2.5-flash-lite
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 87ba24ed-1103-4fbb-a4fe-8e4cb21e50c5, AI Resonse: The first policy of the company **TechNova Solutions** is the **Work Hours Policy**.
+INFO:root:Session ID: 87ba24ed-1103-4fbb-a4fe-8e4cb21e50c5, User Query: What is the first policy of company?, Model: gemini-2.5-flash-lite
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 1.4 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 33.497737447s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 2.06 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 31.962657578s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 4.13 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 29.766734821s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 8.47 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 25.501761936s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash-lite', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 16.8 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 16.765125155s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash-lite', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:root:Session ID: 290f7be7-0644-47e3-8224-e37c41322838, User Query: What is the first company in the documents?, Model: gemini-2.5-flash-lite
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 1.93 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 27.720822243s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 2.43 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 25.656539077s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 4.93 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 23.084944616s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 8.62 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 18.009954493s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 16.9 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 9.137449424s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:root:Session ID: 2febed7a-b590-48c8-ae34-d16a993727e7, User Query: What is the first company in the documents?, Model: gemini-2.5-flash-lite
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 1.05 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 20.48444813s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 2.16 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 19.14879203s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 4.52 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 16.837968837s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash-lite', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 8.86 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 12.136175438s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:google_genai._api_client:Retrying google.genai._api_client.BaseApiClient._request_once in 16.4 seconds as it raised ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\nPlease retry in 2.987327754s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}}.
+INFO:root:Session ID: e58a4de9-b13f-49e9-8be1-c4a2e8ac8f3f, User Query: What is first company in document?, Model: gemini-2.5-flash
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: e58a4de9-b13f-49e9-8be1-c4a2e8ac8f3f, AI Resonse: The first company in the document is **TechNova Solu\u019fons**.
+INFO:root:Session ID: e58a4de9-b13f-49e9-8be1-c4a2e8ac8f3f, User Query: What is first policy?, Model: gemini-2.5-flash
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: e58a4de9-b13f-49e9-8be1-c4a2e8ac8f3f, AI Resonse: The first policy mentioned in the document, which appears to be the end of policies for TechNova Solutions, is:
+
+**5. Repor\u019fng and Documenta\u019fon**
+All shipments must be tracked and updated in the logis\u019fcs management system to ensure transparency and accountability.
+INFO:root:Session ID: a3c4c006-4634-47f9-8e40-c582a220dcb6, User Query: What is first company in my given document?, Model: gemini-2.5-flash
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: a3c4c006-4634-47f9-8e40-c582a220dcb6, AI Resonse: The first company in your given document is **TechNova Solutions**.
+INFO:root:Session ID: a3c4c006-4634-47f9-8e40-c582a220dcb6, User Query: What is first policy, Model: gemini-2.5-flash
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: a3c4c006-4634-47f9-8e40-c582a220dcb6, AI Resonse: Based on the provided document, the first policy is:
+
+**1. Introduction** (under MediCore Health Systems)
+"MediCore Health Systems provides healthcare services with a strong focus on patient care, confidentiality, and medical ethics."
+INFO:root:Session ID: 7b74b343-d958-4679-9f49-8d329745baf2, User Query: What is Technova Solutions first policy?, Model: gemini-2.5-flash
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7b74b343-d958-4679-9f49-8d329745baf2, AI Resonse: The first policy outlined in the TechNova Solutions Company Policy Document is the **Work Hours Policy**.
+
+It states that employees are expected to work 40 hours per week, with standard working hours from 9:00 AM to 6:00 PM, Monday to Friday. Flexible working hours may be approved by management depending on project requirements.
+INFO:root:Session ID: 7b74b343-d958-4679-9f49-8d329745baf2, User Query: What is second policy?, Model: gemini-2.5-flash
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7b74b343-d958-4679-9f49-8d329745baf2, AI Resonse: I apologize, but the provided text does not contain any information about "Technova Solutions" or its policies. Therefore, I cannot tell you what its second policy is.
+
+The documents provided are for:
+*   General employee data protection.
+*   GreenLeaf Energy
+*   SkyBridge Logistics
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:root:Session ID: f594d50b-4cbc-4704-9087-b2e7fc064f1f, User Query: What is technova solutions first policy?, Model: gemini-2.5-flash
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: f594d50b-4cbc-4704-9087-b2e7fc064f1f, AI Resonse: TechNova Solutions' first policy is the **Work Hours Policy**.
+INFO:root:Session ID: f594d50b-4cbc-4704-9087-b2e7fc064f1f, User Query: What was the second policy?, Model: gemini-2.5-flash
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Session ID: f594d50b-4cbc-4704-9087-b2e7fc064f1f, AI Resonse: I apologize, but "TechNova Solutions" is not mentioned in the provided context. Therefore, I cannot identify its policies.
+
+The policies provided are for:
+*   SkyBridge Logistics
+*   GreenLeaf Energy
